@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/9/trunk/psftmplate/test
+END
+a.out
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/9/trunk/psftmplate/test/a.out
+END
+atom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/9/trunk/psftmplate/test/atom.cpp
+END
+test_bond.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9/trunk/psftmplate/test/test_bond.cpp
+END
